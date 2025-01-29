@@ -14,7 +14,7 @@ spring:
     config:
       server:
         git:
-          uri: https://github:com/otabek-samatov/config-repo
+          uri: https://github.com/otabek-samatov/config-repo.git
           default-label: master
           timeout: 5
           clone-on-start: true
